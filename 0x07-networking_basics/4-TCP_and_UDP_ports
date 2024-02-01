@@ -1,2 +1,5 @@
 #!/usr/bin/env bash
-# this is a Bash script that displays listening ports:
+# this is a Bash script that displays listening ports#!/usr/bin/env bash
+#+  only shows listening sockets
+
+sudo netstat -lp
